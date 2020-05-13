@@ -4,7 +4,7 @@ Online 3d web to track nasa satellites and astros. Alternative for J-Track 3D fr
 ## Web: https://sbesada.github.io/online.nasa.satellite.tracker.3d/
 
 ## Reference
-- Data for the satellite tracking: https://sscweb.sci.gsfc.nasa.gov/
+- Data for the satellite tracker: https://sscweb.sci.gsfc.nasa.gov/
 - This page is a 3D alternative for https://science.nasa.gov/realtime/jtrack/3d/JTrack3D.html
 - 3D library - https://cesium.com/
 
