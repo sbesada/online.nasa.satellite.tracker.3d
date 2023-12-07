@@ -9,7 +9,7 @@ Online 3d web to track nasa satellites and astros. Alternative for J-Track 3D fr
 - 3D library - https://cesium.com/
 
 ## Satellites & Astros Data
-This web is populated on various schedules depending on mission, ranging from weekly to yearly and include predictive and definitive orbits
+This web is populated on various schedules depending on mission, ranging from weekly to yearly and include predictive and definitive orbits where time is in UTC
 
 ## Accuracy
  - Locations are stored in 32bit floats with a precision of a few meters near the Earth and a few hundred km at Pluto
@@ -19,6 +19,7 @@ This web is populated on various schedules depending on mission, ranging from we
 ## ISS Tracker
  - ISS: https://en.wikipedia.org/wiki/International_Space_Station
  - You can compare the accuracy with https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/Where_is_the_International_Space_Station
+ - Time in UTC
 
 ## 3D Earth 
  - It is possible to see the Earth near real time. (https://wiki.earthdata.nasa.gov/display/GIBS/)
